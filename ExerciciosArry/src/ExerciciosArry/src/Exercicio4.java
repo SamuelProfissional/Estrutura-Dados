@@ -1,4 +1,6 @@
-public class Exercicio1 {
+package ExerciciosArry.src;
+
+public class Exercicio4 {
   /*
   * 4. Crie um método que receba como parâmetro
   * um número decimal, converta esse
@@ -13,8 +15,8 @@ public class Exercicio1 {
   }
 
 public static int ConvetDesc(int binario){
-    if(){
+    /*if(){
 
-    }else 
+    }else */
 }
 }
