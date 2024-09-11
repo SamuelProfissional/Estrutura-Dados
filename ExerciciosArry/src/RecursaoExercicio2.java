@@ -1,15 +1,25 @@
-public class Exercicio1 {
-  /*3. Crie um método que receba 
-    como parâmetro um número binário na forma de um
-    vetor com 8 posições e retorne esse número 
-    convertido para decimal.*/
+package ExerciciosArry.src;
 
-public static void main(String[] args) {
-    
-}
-public static int ConvetBin(int binario){
-    if(){
+public class RecursaoExercicio2 {
+    /*
+     * Crie um método recursivo que receba dois números inteiros como parâmetros,
+     * o primeiro será o número base e o segundo a potência, e retorne o valor da
+     * função.
+     */
 
-    }else 
-}
+    public static void main(String[] args) {
+
+        System.out.println(calculaPotencia(5, 4) + " ");
+
+    }
+
+    public static int calculaPotencia(int a, int b) {
+
+        if (b == 0)
+            return 1;
+        else
+            return a * calculaPotencia(a, b - 1);
+
+    }
+
 }

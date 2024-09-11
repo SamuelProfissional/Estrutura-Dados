@@ -1,11 +1,9 @@
 package ExerciciosArry.src;
 
 public class RecursaoExercicio1 {
-/*Crie um método que dado uma matriz [3x2] 
-gere sua equivalente [2x3] transposta.
-Conforme exemplo, utilize o algoritmo do exercício 6
-para imprimir a matriz
-original e a transposta.*/
+/*Crie um método recursivo que receba um valor inteiro decimal e retorne uma
+String com o valor correspondente em binário.
+*/
 
 public static void main(String[] args) {
     

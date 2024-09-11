@@ -1,4 +1,4 @@
-package ExerciciosArry.src;
+package src;
 
 public class Exercicio2 {
     /* OK
