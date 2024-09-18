@@ -32,6 +32,8 @@ public static int mudaMatriz(int matriz){
     for (int l = 0; l < 3; l++) {
         
         for (int c = 0; c < 2; c++) {
+             convertido[0][l] = matriz[l][0];
+             convertido[1][l] = matriz[l][1];
             
         }
         
